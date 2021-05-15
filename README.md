@@ -17,9 +17,9 @@ With Thomas High School removed:
 Original:
 ![per_school_summary](Resources/per_school_summary.PNG)
 Replacing Scores with NaN:
-![per_school_sum_noTHS](Resources/per_school_sum_noTHS.PNG)
+![per_school_sum_noTHS](Resources/per_school_sum_noTHS.png)
 Adjusting Student Count:
-![per_school_sum_noTHS_adjPer](Resources/per_school_sum_noTHS_adjPer.PNG)
+![per_school_sum_noTHS_adjPer](Resources/per_school_sum_noTHS_adjPer.png)
 
 * Replacing the ninth graders math and reading scores did not affect Thomas High School performance relative to other schools. It remained at number 2 overall.
 Original:
@@ -29,6 +29,7 @@ Updated:
 
 * Replacing the ninth-grade score affected the following:
     * In Math and reading scores by grade - the 9th grade average was NaN for math and reading. The math averages is shown below:
+    
     ![MathbyGrade_noTHS](Resources/MathbyGrade_noTHS.PNG)
     * There was no change to scores by school spending
     ![GradebySpend_noTHS](Resources/GradebySpend_noTHS.PNG)
